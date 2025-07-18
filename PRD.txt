@@ -1,6 +1,6 @@
 Please generate code based on the event storming model metadata, adhering to the standard conventions of the egov framework based on Spring Boot. The code must be strictly implemented based on the metadata provided below:
 
-{{namePascalCase}} Metadata:
+{{namePascalCase}} DDD Model:
 {{{contexts.json}}}
 
 <function>
